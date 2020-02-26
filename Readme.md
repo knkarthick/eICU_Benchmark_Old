@@ -65,10 +65,8 @@ The data extraction is divided into two steps:
 ## How to run each experiment
 The experiments are divided into two scripts. In the both scripts there are arguments related to task, numerical, categorical, artificial neural networks, one-hot encoding, and mortality window data. Those arguments can be provided as binary and for mortality window we consider the first 24 and 48 hours of the admission data.
 
-The baseline experiments can be ran by running python baseline.py --args
+The baseline experiments can be run by running python baseline.py --args
 
-The LSTM experiments can be ran by running python train.py --args
-
-## Motivation
+The LSTM experiments can be run by running python train.py --args
 
 
