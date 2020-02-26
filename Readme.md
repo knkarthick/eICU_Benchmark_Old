@@ -1,4 +1,4 @@
-# eICU Benhmarks
+# eICU Benhmark
 ## Reference
 Seyedmostafa Sheikhalishahi and Vevake Balaraman and Venet Osmani.
 "Benchmarking machine learning models on eICU critical care dataset" available on arXiv (https://arxiv.org/abs/1910.00964v1)
